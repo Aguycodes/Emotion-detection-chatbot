@@ -7,3 +7,5 @@ To run you must have some necessary modules
 4. python text to speech (pyttsx3)
 5. deepface
 6. Python imaging library (PIL)
+
+Advised to run on Google colab
